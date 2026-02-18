@@ -135,7 +135,7 @@ export default function Experience() {
         <motion.div {...fadeUp(0.5)} className="mt-10 text-center">
           <div className="inline-flex items-center gap-3 px-6 py-4 rounded-2xl"
             style={{ background: 'rgba(34,211,238,0.05)', border: '1px solid rgba(34,211,238,0.15)' }}>
-            <span className="text-[#22d3ee] font-bold text-lg">2+</span>
+            <span className="text-[#22d3ee] font-bold text-lg">1.5+</span>
             <span className="text-slate-400 text-sm">years of hands-on AI/ML development — research, engineering, and production deployment</span>
           </div>
         </motion.div>
