@@ -125,9 +125,7 @@ export default function Hero() {
 
             {/* Description */}
             <motion.p {...fadeUp(0.5)} className="text-slate-400 text-base sm:text-lg leading-relaxed mb-8 max-w-xl mx-auto lg:mx-0">
-              Specialized in developing <span className="text-slate-200 font-medium">lightweight, interpretable AI systems</span> for real-time applications.
-              Building end-to-end ML pipelines for computer vision, deep reinforcement learning,
-              and robotics with a focus on <span className="text-[#22d3ee] font-medium">healthcare diagnostics</span> and autonomous systems.
+              Specialized in developing <span className="text-slate-200 font-medium">production-ready AI systems</span> that deliver measurable business impact. Expert in building end-to-end ML pipelines with <span className="text-[#22d3ee] font-medium">94%+ accuracy </span> for computer vision, deep RL, and robotics applications.
             </motion.p>
 
             {/* Tags */}
