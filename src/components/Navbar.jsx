@@ -8,7 +8,7 @@ const navItems = [
   // { label: 'Experience',   id: 'experience' },
   // { label: 'Projects',     id: 'projects' },
   // { label: 'Publications', id: 'publications' },
-  // { label: 'Contact',      id: 'contact' },
+  { label: 'Contact',      id: 'contact' },
 ]
 
 export default function Navbar() {
