@@ -160,7 +160,7 @@ const categories = [
     ],
   },
   {
-    // title: 'Computer Vision',
+    title: 'Computer Vision',
     icon: '👁️',
     color: '#34d399',
     skills: [
