@@ -161,7 +161,7 @@ const categories = [
   },
   {
     // title: 'Computer Vision',
-    // icon: '👁️',
+    icon: '👁️',
     color: '#34d399',
     skills: [
       { name: 'YOLO (v5-v8)', level: 95 },
