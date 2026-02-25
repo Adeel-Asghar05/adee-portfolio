@@ -613,7 +613,7 @@ export default function Projects() {
       <div className="absolute bottom-0 left-1/4 w-96 h-96 opacity-10 pointer-events-none"
         style={{ background: 'radial-gradient(circle, #22d3ee 0%, transparent 70%)' }} />
 
-      <div className="max-w-7xl mx-auto relative">
+      {/* <div className="max-w-7xl mx-auto relative"> */}
         <motion.div {...fadeUp(0)} className="text-center mb-16">
           <span className="text-[#22d3ee] text-sm font-semibold tracking-widest uppercase mb-3 block">What I've Built</span>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-white mb-4">Featured <span className="text-gradient-cyan">Projects</span></h2>
