@@ -610,7 +610,7 @@ export default function Projects() {
     <section id="projects" className="py-24 px-4 sm:px-6 lg:px-8 relative"
       style={{ background: 'linear-gradient(180deg, #0d1529 0%, #0a0f1e 100%)' }}>
 
-      <div className="absolute bottom-0 left-1/4 w-96 h-96 opacity-10 pointer-events-none"
+      {/* <div className="absolute bottom-0 left-1/4 w-96 h-96 opacity-10 pointer-events-none" */}
         // style={{ background: 'radial-gradient(circle, #22d3ee 0%, transparent 70%)' }} />
 
       <div className="max-w-7xl mx-auto relative">
