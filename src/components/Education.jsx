@@ -16,7 +16,7 @@ const achievements = [
   'Published research work in medical AI during undergraduate studies',
   'Active member of university AI research laboratory',
   'Collaborated with international institutions on joint AI research',
-  // 'Graduated with distinction in Computer Science',
+  'Graduated with distinction in Computer Science',
 ]
 
 export default function Education() {
