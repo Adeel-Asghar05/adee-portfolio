@@ -611,7 +611,7 @@ export default function Projects() {
       style={{ background: 'linear-gradient(180deg, #0d1529 0%, #0a0f1e 100%)' }}>
 
       <div className="absolute bottom-0 left-1/4 w-96 h-96 opacity-10 pointer-events-none"
-        style={{ background: 'radial-gradient(circle, #22d3ee 0%, transparent 70%)' }} />
+        // style={{ background: 'radial-gradient(circle, #22d3ee 0%, transparent 70%)' }} />
 
       <div className="max-w-7xl mx-auto relative">
         <motion.div {...fadeUp(0)} className="text-center mb-16">
